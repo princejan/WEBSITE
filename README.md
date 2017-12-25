@@ -1,2 +1,3 @@
-<html><body bgcolor=black><h1>this is prince</h1><><><><><><><><>
+<html><body bgcolor=black><h1>this is prince</h1>
+<A href="">
 
